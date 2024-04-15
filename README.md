@@ -7,7 +7,7 @@
 
 - [Google Professional Cybersecurity Certificate](https://coursera.org/share/86148f16304216224bf8683d83afe8fd)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Let's connect!</h2>
 
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
