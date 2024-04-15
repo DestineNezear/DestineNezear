@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Destine! <br/><a href="https://github.com/Destinenezear">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+<h2>Certifications</h2>
+
+- [Google Professional Cybersecurity Certificate](https://coursera.org/share/86148f16304216224bf8683d83afe8fd)
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[instagram]: https://www.instagram.com/DestineNezear/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**DestineNezear/DestineNezear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
